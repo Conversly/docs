@@ -14,6 +14,10 @@ export default defineNuxtConfig({
     // Your existing app config
     appConfig: {
         docus: {
+            socials: {
+                x: 'https://x.com/VerlyAI',
+                linkedin: 'https://www.linkedin.com/company/verlyai/',
+            },
             assistant: {
                 floatingInput: true,
                 explainWithAi: true,

@@ -25,22 +25,24 @@ Ship fast, flexible, and SEO-optimized documentation with beautiful design out o
   :::u-button
   ---
   color: neutral
-  icon: simple-icons-github
+  icon: i-simple-icons-x
   size: xl
-  to: https://github.com/nuxt-content/docus
+  to: https://x.com/VerlyAI
+  target: _blank
   variant: outline
   ---
-  Star on GitHub
+  Follow on X
   :::
 
 #headline
   :::u-button
   ---
   size: sm
-  to: https://github.com/nuxt-content/docus/releases/tag/v5.0.0
+  to: https://x.com/VerlyAI
+  target: _blank
   variant: outline
   ---
-  Docus v5 →
+  Follow us on X →
   :::
 ::
 
@@ -352,13 +354,13 @@ Ship fast, flexible, and SEO-optimized documentation with beautiful design out o
           ---
           block: true
           color: neutral
-          icon: i-simple-icons-github
+          icon: i-simple-icons-x
           size: lg
           target: _blank
-          to: https://github.com/nuxt-content/docus
+          to: https://x.com/VerlyAI
           variant: outline
           ---
-          View on GitHub
+          Follow on X
           :::::::
         ::::::
       :::::
