@@ -8,24 +8,16 @@ export default defineNuxtConfig({
     nitro: {
         routeRules: {
             '/sw.js': { headers: { 'Cache-Control': 'no-cache' } },
+            '/': { redirect: '/getting-started/welcome-to-verlyai' }
         },
     },
-
-    // Your existing app config
-    appConfig: {
-        docus: {
-            socials: {
-                x: 'https://x.com/VerlyAI',
-                linkedin: 'https://www.linkedin.com/company/verlyai/',
-            },
-            assistant: {
-                floatingInput: true,
-                explainWithAi: true,
-                faqQuestions: [
-                    'How do I install Docus?',
-                    'How do I customize the theme?'
-                ]
-            }
+    vite: {
+        optimizeDeps: {
+            exclude: ['@vue/runtime-core']
         }
-    }
+    },
+    colorMode: {
+        preference: 'dark'
+    },
+
 })
