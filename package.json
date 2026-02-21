@@ -1,12 +1,15 @@
 {
   "name": "VerlyAI",
   "scripts": {
-    "dev": "nuxt dev --extends docus",
-    "build": "nuxt build --extends docus"
+    "dev": "node init && nuxt dev --extends docus",
+    "build": "node init && nuxt build --extends docus"
   },
   "dependencies": {
-    "docus": "latest",
+    "@vercel/analytics": "^1.6.1",
     "better-sqlite3": "^12.6.2",
+    "docus": "latest",
+    "dotenv": "^8.2.0",
+    "node-fetch": "^3.3.2",
     "nuxt": "^4.3.1"
   }
 }
