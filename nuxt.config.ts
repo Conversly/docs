@@ -11,11 +11,7 @@ export default defineNuxtConfig({
             '/': { redirect: '/getting-started/welcome-to-verlyai' }
         },
     },
-    vite: {
-        optimizeDeps: {
-            exclude: ['@vue/runtime-core']
-        }
-    },
+
     colorMode: {
         preference: 'dark'
     },

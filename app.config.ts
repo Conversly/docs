@@ -1,10 +1,17 @@
+import { defineAppConfig } from "nuxt/app";
+
 export default defineAppConfig({
     docus: {
         title: 'VerlyAI',
         description: 'The best place to start your documentation.',
-        image: 'https://user-images.githubusercontent.com/904724/185365452-87b7ca7b-6030-4813-a2db-5e65c785bf88.png',
         socials: {
-            x: 'https://x.com/VerlyAI',
+            website: {
+                label: 'VerlyAI',
+                href: 'https://verlyai.xyz/',
+                icon: 'i-lucide-globe'
+            },
+            twitter: 'https://x.com/VerlyAI',
+            github: '',
             linkedin: {
                 label: 'LinkedIn',
                 href: 'https://www.linkedin.com/company/verlyai/',
@@ -21,7 +28,12 @@ export default defineAppConfig({
             fluid: true
         },
         header: {
-            logo: true,
+            title: 'VerlyAI',
+            logo: {
+                light: '/logo.svg',
+                dark: '/logo.svg',
+                alt: 'VerlyAI Logo'
+            },
             showLinkIcon: true,
             exclude: [],
             fluid: true
