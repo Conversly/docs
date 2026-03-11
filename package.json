@@ -2,11 +2,15 @@
   "name": "VerlyAI",
   "scripts": {
     "dev": "nuxt dev --extends docus",
-    "build": "nuxt build --extends docus"
+    "build": "nuxt build --extends docus",
+    "generate": "nuxt generate --extends docus",
+    "preview": "nuxt preview"
   },
   "dependencies": {
-    "docus": "latest",
+    "@nuxtjs/robots": "^5.2.8",
+    "@nuxtjs/sitemap": "^7.2.10",
     "better-sqlite3": "^12.6.2",
+    "docus": "latest",
     "nuxt": "^4.3.1"
   }
 }
