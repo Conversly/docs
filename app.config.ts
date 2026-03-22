@@ -2,8 +2,8 @@ import { defineAppConfig } from "nuxt/app";
 
 export default defineAppConfig({
     docus: {
-        title: 'VerlyAI',
-        description: 'The best place to start your documentation.',
+        title: 'VerlyAI Docs',
+        description: 'Official documentation for VerlyAI — learn how to deploy AI agents for Voice, WhatsApp, and Web Chat. API references, quickstarts, SDKs, and integration guides.',
         socials: {
             website: {
                 label: 'VerlyAI',

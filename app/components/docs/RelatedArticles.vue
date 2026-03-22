@@ -59,15 +59,14 @@ const relatedArticles = computed(() => {
         .slice(0, 3)
 })
 
-// External resources for additional linking
+// External resources — link to main site and blog for cross-subdomain authority
 const externalResources = computed(() => {
     const allResources = [
-        { title: 'VerlyAI vs Intercom', path: '/verlyai-vs-intercom-the-complete-comparison', description: 'Feature comparison' },
-        { title: 'AI Agents vs Traditional Support', path: '/why-ai-agents-are-replacing-traditional-customer-support', description: 'Industry trends' }
+        { title: 'VerlyAI Blog', path: 'https://blogs.verlyai.xyz', description: 'AI agent guides & playbooks' },
+        { title: 'Solutions by industry', path: 'https://verlyai.xyz/solutions', description: 'E-commerce, SaaS, Healthcare & more' },
     ]
 
-    // Filter out if current path matches
-    return allResources.filter(r => r.path !== props.currentPath)
+    return allResources
 })
 </script>
 

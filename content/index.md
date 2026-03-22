@@ -169,8 +169,8 @@ Seamlessly transfer complex conversations from AI to your support team.
 
 ## Related Resources
 
-- [VerlyAI vs Intercom Comparison](/verlyai-vs-intercom-the-complete-comparison)
-- [Why AI Agents Are Replacing Traditional Customer Support](/why-ai-agents-are-replacing-traditional-customer-support)
+- [VerlyAI Blog — AI agent guides & playbooks](https://blogs.verlyai.xyz)
+- [Solutions by industry — E-commerce, SaaS, Healthcare & more](https://verlyai.xyz/solutions)
 
 ## Get Support
 
