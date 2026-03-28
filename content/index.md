@@ -1,16 +1,16 @@
 ---
-title: "VerlyAI Documentation - Complete Guide to AI Chatbots & Automation"
-description: "Complete documentation for VerlyAI - the no-code AI chatbot platform. Learn to build, deploy, and manage AI agents for customer support, WhatsApp integration, and more."
+title: "Verly Documentation - Complete Guide to AI Chatbots & Automation"
+description: "Complete documentation for Verly - the no-code AI chatbot platform. Learn to build, deploy, and manage AI agents for customer support, WhatsApp integration, and more."
 publishedAt: "2026-02-20"
 navigation: false
 seo:
-  title: "VerlyAI Documentation Hub - AI Chatbot Platform Guide"
-  description: "Master AI chatbots with VerlyAI's comprehensive documentation. Build no-code AI agents, integrate WhatsApp, automate customer support."
+  title: "Verly Documentation Hub - AI Chatbot Platform Guide"
+  description: "Master AI chatbots with Verly's comprehensive documentation. Build no-code AI agents, integrate WhatsApp, automate customer support."
 ---
 
-# VerlyAI Documentation
+# Verly Documentation
 
-Welcome to the complete guide for building AI-powered customer support automation with VerlyAI.
+Welcome to the complete guide for building AI-powered customer support automation with Verly.
 
 ## Quick Start
 
@@ -35,7 +35,7 @@ Welcome to the complete guide for building AI-powered customer support automatio
   #title
   Explore Features
   #description
-  Discover all the powerful features VerlyAI offers for automating customer support.
+  Discover all the powerful features Verly offers for automating customer support.
   #footer
     :::u-button
     ---
@@ -68,9 +68,9 @@ Welcome to the complete guide for building AI-powered customer support automatio
 
 ### Getting Started
 
-New to VerlyAI? Start here:
+New to Verly? Start here:
 
-- **Welcome to VerlyAI** - Platform overview and core concepts
+- **Welcome to Verly** - Platform overview and core concepts
 - **Build Your First AI Chatbot** ([guide](/getting-started/build-your-first-ai-chatbot)) - Step-by-step tutorial for beginners
 - **Best Practices** ([tips](/getting-started/best-practices)) - Expert recommendations for chatbot success
 - **Roles and Permissions** ([learn more](/getting-started/roles-and-permissions)) - Manage team access
@@ -121,7 +121,7 @@ Balance AI and human support:
 - **Live Inbox** ([#title
   human-tooling](/human-escalations/live-inbox)) - Real-time conversation management
 
-## Why Choose VerlyAI?
+## Why Choose Verly?
 
 **No-Code AI Chatbot Builder**
 Create sophisticated AI agents without writing code. Perfect for businesses wanting fast deployment.
@@ -169,7 +169,7 @@ Seamlessly transfer complex conversations from AI to your support team.
 
 ## Related Resources
 
-- [VerlyAI Blog — AI agent guides & playbooks](https://blogs.verlyai.xyz)
+- [Verly Blog — AI agent guides & playbooks](https://blogs.verlyai.xyz)
 - [Solutions by industry — E-commerce, SaaS, Healthcare & more](https://verlyai.xyz/solutions)
 
 ## Get Support
@@ -179,7 +179,7 @@ Need help? Our team is here to assist:
 - Documentation: You're here! Browse our guides above
 - Email: support@verlyai.xyz
 - Website: [verlyai.xyz](https://verlyai.xyz)
-- Twitter: [@VerlyAI](https://x.com/VerlyAI)
+- Twitter: [@Verly](https://x.com/Verly)
 
 ---
 

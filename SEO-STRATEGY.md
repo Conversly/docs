@@ -1,4 +1,4 @@
-# VerlyAI SEO & Backlinking Strategy
+# Verly SEO & Backlinking Strategy
 
 ## Current SEO Implementation Summary
 
@@ -37,7 +37,7 @@
    - AI chatbot prompt library
 
 4. **Case Studies**
-   - "How [Company X] Reduced Support Tickets by 40% with VerlyAI"
+   - "How [Company X] Reduced Support Tickets by 40% with Verly"
    - Detailed before/after metrics
 
 ### B. Strategic Guest Posting
