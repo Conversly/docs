@@ -24,7 +24,8 @@ const contentClusters: Record<string, RelatedArticle[]> = {
     ],
     '/knowledge-training': [
         { title: 'Connect Data Sources', path: '/knowledge-training/data-sources', description: 'Import docs and FAQs' },
-        { title: 'Setup Actions', path: '/knowledge-training/actions', description: 'Automate workflows' }
+        { title: 'Setup Actions', path: '/knowledge-training/actions', description: 'Automate workflows' },
+        { title: 'MCP Server Integration', path: '/knowledge-training/mcp-server-integration', description: 'Connect remote MCP tools' }
     ],
     '/analytics': [
         { title: 'View Statistics', path: '/analytics/statistics', description: 'Performance metrics' },
@@ -34,7 +35,7 @@ const contentClusters: Record<string, RelatedArticle[]> = {
     ],
     '/channels': [
         { title: 'WhatsApp Integration', path: '/channels/whatsapp', description: 'Connect WhatsApp Business' },
-        { title: 'Other Integrations', path: '/channels/integration', description: 'Website widget & API' }
+        { title: 'Website Integration', path: '/channels/integration', description: 'Add the chatbot widget to your site' }
     ],
     '/human-escalations': [
         { title: 'Escalation Analytics', path: '/human-escalations/esclation-analytics', description: 'Handoff metrics' },

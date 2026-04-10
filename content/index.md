@@ -83,6 +83,7 @@ Master your chatbot configuration:
 - **Customize** ([design options](/ai-chatbot-management/customize)) - Brand your chatbot interface
 - **Behaviour** ([settings](/ai-chatbot-management/behaviour)) - Configure AI responses and personality
 - **Deploy** ([go live](/ai-chatbot-management/deploy)) - Publish to production
+- **Identity Verification** ([secure users](/ai-chatbot-management/identity-verification)) - Authenticate logged-in users and power user-aware actions
 
 ### Knowledge Training
 
@@ -90,6 +91,7 @@ Train your AI with data:
 
 - **Data Sources** ([connect](/knowledge-training/data-sources)) - Import documents, websites, and FAQs
 - **Actions** ([automation](/knowledge-training/actions)) - Set up AI-powered workflows
+- **MCP Server Integration** ([setup](/knowledge-training/mcp-server-integration)) - Connect hosted MCP tools and remote systems
 
 ### Analytics & Insights
 
@@ -105,7 +107,7 @@ Monitor performance:
 Connect your platforms:
 
 - **WhatsApp Integration** ([setup](/channels/whatsapp)) - WhatsApp Business API connection
-- **Other Integrations** ([view all](/channels/integration)) - Website widget, API, and more
+- **Website Integration** ([setup](/channels/integration)) - Add the Verly chatbot widget to your website
 
 ### Voice Agents
 

@@ -12,5 +12,10 @@
     "better-sqlite3": "^12.6.2",
     "docus": "latest",
     "nuxt": "^4.3.1"
+  },
+  "pnpm": {
+    "overrides": {
+      "@nuxt/content": "latest"
+    }
   }
 }
