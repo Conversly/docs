@@ -20,8 +20,6 @@ logs
 .eslintcache
 
 # Local env files
-.env
-.env.*
 !.env.example
 
 # npm pack
@@ -35,3 +33,4 @@ logs
 #VSC
 .history
 .wrangler
+config.bat

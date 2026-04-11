@@ -7,15 +7,25 @@
     "preview": "nuxt preview"
   },
   "dependencies": {
+    "@nuxt/content": "3.12.0",
     "@nuxtjs/robots": "^5.2.8",
     "@nuxtjs/sitemap": "^7.2.10",
     "better-sqlite3": "^12.6.2",
     "docus": "latest",
+    "dotenv": "^8.2.0",
+    "node-fetch": "^3.3.2",
     "nuxt": "^4.3.1"
   },
   "pnpm": {
     "overrides": {
-      "@nuxt/content": "latest"
-    }
+      "@nuxt/content>@nuxt/kit": "4.2.2"
+    },
+    "onlyBuiltDependencies": [
+      "@parcel/watcher",
+      "better-sqlite3",
+      "esbuild",
+      "sharp",
+      "vue-demi"
+    ]
   }
 }
